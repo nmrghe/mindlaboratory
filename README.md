@@ -5,6 +5,6 @@
 
   # nmrghe's Website
 
-  Visit **[nmrghe.github.io/mindlaboratory](https://nmrghe.github.io/mindlaboratory)** 🚀
+  Visit **[mindlaboratory.org](http://mindlaboratory.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
