@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # nmrghe's Website
+  # M!ND Lab Website
 
   Visit **[mindlaboratory.org](https://mindlaboratory.org)** 🚀
 
