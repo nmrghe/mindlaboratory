@@ -1,1 +1,1 @@
-Sitemap: https://nmrghe.github.io/mindlaboratory/sitemap.xml
+Sitemap: http://mindlaboratory.org/sitemap.xml
