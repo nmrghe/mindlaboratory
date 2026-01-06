@@ -1,1 +1,1 @@
-Sitemap: http://mindlaboratory.org/sitemap.xml
+Sitemap: https://mindlaboratory.org/sitemap.xml
