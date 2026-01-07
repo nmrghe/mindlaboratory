@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
+name: Nicolas Meirhaeghe
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: CNRS
 aliases:
-  - J. Smith
-  - J Smith
+  - N. Meirhaeghe
+  - N Meirhaeghe
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: 
+  orcid: 0000-0002-3785-0696
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Engineer by training, Nicolas Meirhaeghe obtained his PhD in computational and integrative neuroscience at MIT (USA), working in Mehrdad Jazayeri's team from 2016 to 2021. His thesis work focused on the link between neural dynamics and time estimation, and aimed to understand how neural activity incorporates our past experiences to inform our future behaviors. Nicolas then returned to France to do postdoctoral research at the Timone Institute of Neuroscience (Marseille) in Thomas Brochier's team, before being recruited as a CNRS researcher in 2025.
