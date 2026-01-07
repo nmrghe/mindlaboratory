@@ -7,7 +7,6 @@ aliases:
   - N. Meirhaeghe
   - N Meirhaeghe
 links:
-  home-page: 
   orcid: 0000-0002-3785-0696
 ---
 
