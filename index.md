@@ -1,9 +1,9 @@
 ---
 ---
 
-# Our goal is to understand how the richness of our "mental life" –– our thoughts, plans and expectations –– emerge from biology
+# Our goal is to understand how the richness of our "mental life" –– our thoughts, plans and expectations –– emerges from biology
 
-An engaging 1-3 sentence description of your lab.
+We follow a multidisciplinary approach, combining experiments in humans and animals to study particular mental processes such as planning and learning, with hypothesis-driven analyses and modeling of the underlying neural dynamics.  
 
 {% include section.html %}
 
