@@ -1,7 +1,7 @@
 ---
 ---
 
-# nmrghe's Website
+# Our goal is to understand how the richness of our "mental life" –– our thoughts, plans and expectations –– emerge from biology
 
 An engaging 1-3 sentence description of your lab.
 
