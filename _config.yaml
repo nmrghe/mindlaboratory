@@ -8,12 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@nmrghe.com
+  email: nicolas.meirhaeghe@cnrs.fr
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: nmrghe
-  twitter: nmrghe
-  youtube: nmrghe
+  google-scholar: https://scholar.google.com/citations?user=gXpQelwAAAAJ&hl=fr&oi=ao
+  github: https://github.com/nmrghe
+  twitter: https://x.com/nicognitive
 
 ### jekyll settings
 
