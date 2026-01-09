@@ -9,10 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: nicolas.meirhaeghe@cnrs.fr
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-3785-0696
   google-scholar: https://scholar.google.com/citations?user=gXpQelwAAAAJ&hl=fr&oi=ao
-  github: https://github.com/nmrghe
-  twitter: https://x.com/nicognitive
+  github: nmrghe
+  twitter: nicognitive
+  bluesky: test
 
 ### jekyll settings
 
