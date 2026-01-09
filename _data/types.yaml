@@ -46,7 +46,7 @@ external:
 home-page:
   icon: fa-solid fa-house-user
   text: Home Page
-  tooltip: Home page
+  # tooltip: Home page
 
 email:
   icon: fa-solid fa-envelope
