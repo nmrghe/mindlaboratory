@@ -10,8 +10,8 @@
 
 <div class="citation-container">
   <div class="citation">
-    {% if include.style == "rich" %}
-      <a
+#    {% if include.style == "rich" %}
+#      <a
 #        {% if citation.link %}
 #          href="{{ citation.link | relative_url | uri_escape }}"
 #        {% endif %}
@@ -23,9 +23,9 @@
 #          alt="{{ citation.title | default: "citation image" | regex_strip }}"
 #          loading="lazy"
 #          {% include fallback.html %}
-        >
-      </a>
-    {% endif %}
+#        >
+#      </a>
+#    {% endif %}
 
     <div class="citation-text">
       {% assign type = site.data.types[citation.type] %}
