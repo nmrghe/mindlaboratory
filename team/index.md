@@ -6,7 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-As any working group, the M!ND Lab is more than just the sum of its parts. We work together and learn from each other.  
+As any working group, the M!ND Lab is more than just the sum of its parts. We work together and learn from one another.  
 
 {% include section.html %}
 
