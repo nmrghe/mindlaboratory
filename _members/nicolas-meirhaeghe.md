@@ -1,6 +1,6 @@
 ---
 name: Nicolas Meirhaeghe
-image: images/Nico_CNRS_2bis.jpg
+image: images/Nico_CNRS_2bis.png
 role: principal-investigator
 #affiliation: CNRS
 aliases:
