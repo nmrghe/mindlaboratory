@@ -6,8 +6,6 @@ nav:
 
 # Team
 
-As any working group, the M!ND Lab is more than just the sum of its parts. We work together and learn from one another.  
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
