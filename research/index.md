@@ -4,7 +4,7 @@ nav:
   order: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# Research
 
 The focus of the M!ND Lab is to advance knowledge on a specific, yet multifaceted question: **what is so special about the brain, down at the neuronal level, that endows us and other animals with the capacity to abstract away from our environment, think and plan ahead?** Said differently, how do populations of interconnected neurons generate intelligent, thoughtful behavior? While there are many paths towards addressing this issue, we firmly believe that a potentially fruitful approach and a satisfying answer to this question is to be found in the establishment of precise *mathematical mappings* between neural activity and behaviorally-relevant variables used by the brain to perform complex computations. The main goal of the lab, therefore, is to search for such mappings in relation to various high-level cognitive processes, including but not limited to motor planning, introspection, anticipation, mental simulation, problem-solving, and learning. 
 
