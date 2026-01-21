@@ -5,6 +5,7 @@ description: Our goal is to understand how the richness of our “mental life”
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+show-title: false
 
 # site social media and other links
 links:
