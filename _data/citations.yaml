@@ -108,13 +108,9 @@
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - Steve McQueen*
+  - Lightning McQueen*
+  - another guy
   publisher: eLife
   date: '2018-03-01'
   link: https://doi.org/ckcj
