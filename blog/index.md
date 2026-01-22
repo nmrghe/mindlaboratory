@@ -1,20 +1,17 @@
 ---
-title: Blog
+title: Publications
 nav:
   order: 4
 ---
 
-# Blog
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# Publications
 
 {% include section.html %}
 
-{% include search-box.html %}
+## Preprints
 
-{% include tags.html tags=site.tags %}
+{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
-{% include search-info.html %}
+{% include section.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% include list.html data="citations" component="citation" style="rich" %}
