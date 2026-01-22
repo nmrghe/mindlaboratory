@@ -17,19 +17,3 @@ Further, to ensure that our findings bring added value for the rest of the neuro
 3. Be **interpretable**: this last property is perhaps the most difficult to fulfil, but we (try to) restrict our search to models that involve tractable and “intuitive” operations. In practice, it means for example that we avoid the traditional “decoding approach” using black-box models or giant GLMs to predict behavioral variables from neural activity. Instead, we try to guess the underlying logic by which those variables might be encoded in the first place, and build decoders accordingly (another example [here](https://www.cell.com/neuron/fulltext/S0896-62731930562-8)). The virtue of this approach is that interpretability often makes it easier to design tests of generalizability, and boosts the creative process of generating ideas for the next round of experiments. 
 
 Lastly, we complement our empirical and computational approach with theoretical considerations (e.g., [here](https://osf.io/rm3nh_v2/)) that push us to examine our findings in the broader context of how the brain as a whole might carry out specific computations. In doing so, we formulate predictions (or speculate) about the role of other brain regions (those we don't necessarily record from), and move forward using “prediction errors” from the literature to update our hypotheses and design new experiments. 
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
