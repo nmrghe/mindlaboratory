@@ -6,7 +6,7 @@ nav:
 
 # Contact
 
-We are constantly looking for passionate people to join the M!ND Lab. The lab is located on the Aix-Marseille University campus in the center of Marseille.  
+We are constantly looking for passionate people to join the M!ND Lab. If you are interested in our work and want to know more about potential open positions, send me an email describing how your interests are aligned with the lab, any relevant prior experiences, and what you'd like to do if you were to join the lab.
 
 {%
   include button.html
