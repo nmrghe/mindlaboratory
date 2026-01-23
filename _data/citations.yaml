@@ -78,20 +78,6 @@
   orcid: 0000-0002-3785-0696
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ACTAASTRO.2020.01.039
-  title: Selective facilitation of egocentric mental transformations under short-term
-    microgravity
-  authors:
-  - Nicolas Meirhaeghe
-  - Virginie Bayet
-  - Pierre-Vincent Paubel
-  - "Claudine M\xE9lan"
-  publisher: Acta Astronautica
-  date: '2020-05-01'
-  link: https://doi.org/hbh9jr
-  orcid: 0000-0002-3785-0696
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/J.NEURON.2019.06.012
   title: Bayesian Computation through Cortical Latent Dynamics
   authors:
