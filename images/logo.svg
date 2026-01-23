@@ -1,391 +1,7 @@
-<!DOCTYPE html>
-<html lang="en" data-dark="false">
-  <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <!--
-  put your analytics (e.g. Google Analytics) tracking code here
--->
-
-  <!--
-  put your search engine verification (e.g. Google Search Console) tag here
--->
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<title>Research | M!ND Lab</title>
-
-<link rel="icon" href="/images/icon.png">
-
-<meta name="title" content="Research">
-<meta name="description" content="Mapping Intell!gent behavior onto Neural Dynamics. Our goal is to understand how the richness of our “mental life” –– our thoughts, plans and expectations –– emerges from biology.">
-
-<meta property="og:title" content="Research">
-<meta property="og:site_title" content="M!ND Lab">
-<meta property="og:description" content="Mapping Intell!gent behavior onto Neural Dynamics. Our goal is to understand how the richness of our “mental life” –– our thoughts, plans and expectations –– emerges from biology.">
-<meta property="og:url" content="https://mindlaboratory.org">
-<meta property="og:image" content="/images/share.jpg">
-<meta property="og:locale" content="en_US">
-
-<meta property="twitter:title" content="Research">
-<meta property="twitter:description" content="Mapping Intell!gent behavior onto Neural Dynamics. Our goal is to understand how the richness of our “mental life” –– our thoughts, plans and expectations –– emerges from biology.">
-<meta property="twitter:url" content="https://mindlaboratory.org">
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:image" content="/images/share.jpg">
-
-
-  <meta property="og:type" content="website">
-
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    
-      "@type": "WebSite",
-    
-    "name": "Research",
-    "description": "Mapping Intell!gent behavior onto Neural Dynamics. Our goal is to understand how the richness of our “mental life” –– our thoughts, plans and expectations –– emerges from biology.",
-    "headline": "Research",
-    "publisher": {
-      "@type": "Organization",
-      "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
-    },
-    "url": "https://mindlaboratory.org"
-  }
-</script>
-
-<link rel="alternate" type="application/rss+xml" href="https://mindlaboratory.org/feed.xml">
-
-  <!-- Google Fonts -->
-<!-- automatically get url from fonts used in theme file -->
-
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
-
-<!-- Font Awesome icons (load asynchronously due to size) -->
-
-<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
-<noscript>
-  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
-</noscript>
-
-  <!-- third party styles -->
-<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
-<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
-
-<!-- include all sass in styles folder -->
-
-
-  
-    <link href="/_styles/-theme.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/alert.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/all.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/anchor.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/background.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/body.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/bold.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/button.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/card.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/checkbox.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/citation.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/code.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/cols.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/dark-toggle.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/details.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/feature.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/figure.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/float.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/font.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/footer.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/form.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/grid.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/header.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/heading.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/highlight.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/icon.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/image.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/link.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/list.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/main.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/paragraph.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/portrait.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/post-excerpt.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/post-info.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/post-nav.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/quote.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/rule.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/search-box.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/search-info.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/section.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/table.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/tags.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/textbox.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/tooltip.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/util.css" rel="stylesheet">
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-<!-- include all css in styles folder -->
-
-
-
-  <!-- third party scripts -->
-<script src="https://unpkg.com/@popperjs/core@2" defer></script>
-<script src="https://unpkg.com/tippy.js@6" defer></script>
-<script src="https://unpkg.com/mark.js@8" defer></script>
-
-<!-- include all js in scripts folder -->
-
-
-  <script src="/_scripts/anchors.js"></script>
-
-  <script src="/_scripts/dark-mode.js"></script>
-
-  <script src="/_scripts/fetch-tags.js"></script>
-
-  <script src="/_scripts/search.js"></script>
-
-  <script src="/_scripts/site-search.js"></script>
-
-  <script src="/_scripts/table-wrap.js"></script>
-
-  <script src="/_scripts/tooltip.js"></script>
-
-
-</head>
-
-  <body>
-    
-
-
-
-
-
-
-
-<header class="background" style="--image: url('/images/background.png')" data-dark="true">
-  <a href="/" class="home">
-    
-      <span class="logo">
-        
-          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" viewbox="0 0 1902 1900" enable-background="new 0 0 1902 1900" xml:space="preserve">
-<path fill="#000000" opacity="1.000000" stroke="none" d="
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100%" viewBox="0 0 1902 1900" enable-background="new 0 0 1902 1900" xml:space="preserve">
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M1248.000000,1901.000000 
 	C832.000000,1901.000000 416.500000,1901.000000 1.000000,1901.000000 
 	C1.000000,1267.666626 1.000000,634.333313 1.000000,1.000000 
@@ -472,8 +88,9 @@ M323.500000,643.000000
 	C632.475220,432.267944 559.422119,432.267944 485.883850,432.267944 
 	C485.883850,502.589172 485.883850,572.644104 485.883850,643.000000 
 	C431.766052,643.000000 378.133026,643.000000 323.500000,643.000000 
-z"></path>
-<path fill="#E05A2C" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E05A2C" opacity="1.000000" stroke="none" 
+	d="
 M807.000000,854.000000 
 	C931.792297,854.000000 1056.084595,854.000000 1180.688232,854.000000 
 	C1180.688232,1059.070679 1180.688232,1263.775391 1180.688232,1468.740112 
@@ -482,8 +99,9 @@ M807.000000,854.000000
 	C881.934692,1047.077148 803.221008,1047.077148 724.254761,1047.077148 
 	C724.254761,982.592773 724.254761,918.664429 724.254761,854.000000 
 	C751.664551,854.000000 779.082275,854.000000 807.000000,854.000000 
-z"></path>
-<path fill="#C92C1D" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#C92C1D" opacity="1.000000" stroke="none" 
+	d="
 M1418.000000,1586.000000 
 	C1418.000000,1617.460205 1418.000000,1648.420410 1418.000000,1679.689209 
 	C1344.963257,1679.689209 1272.377808,1679.689209 1199.395996,1679.689209 
@@ -492,8 +110,9 @@ M1418.000000,1586.000000
 	C1655.595947,1129.301636 1655.595947,1193.338623 1655.595947,1257.827148 
 	C1576.632935,1257.827148 1497.713501,1257.827148 1418.000000,1257.827148 
 	C1418.000000,1367.350708 1418.000000,1476.425293 1418.000000,1586.000000 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M867.000000,1065.000000 
 	C892.467346,1065.000000 917.434692,1065.000000 942.700256,1065.000000 
 	C942.700256,1129.393188 942.700256,1193.443726 942.700256,1257.747314 
@@ -504,8 +123,9 @@ M867.000000,1065.000000
 	C401.363403,854.252808 553.289734,854.252808 705.733765,854.252808 
 	C705.733765,924.206787 705.733765,994.258545 705.733765,1065.000000 
 	C759.665588,1065.000000 813.082825,1065.000000 867.000000,1065.000000 
-z"></path>
-<path fill="#F1D347" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#F1D347" opacity="1.000000" stroke="none" 
+	d="
 M1417.945801,433.264801 
 	C1417.988770,567.672607 1417.988770,701.600464 1417.988770,835.764038 
 	C1186.573120,835.764038 955.546143,835.764038 724.259521,835.764038 
@@ -515,8 +135,9 @@ M1417.945801,433.264801
 	C1201.008667,432.000000 1202.625244,432.000000 1204.241821,432.000000 
 	C1273.726440,432.000000 1343.210938,431.994293 1412.695557,432.032806 
 	C1414.431396,432.033752 1416.166992,432.523224 1417.945801,433.264801 
-z"></path>
-<path fill="#ECAD3C" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#ECAD3C" opacity="1.000000" stroke="none" 
+	d="
 M906.000000,221.000061 
 	C997.796387,221.000076 1089.092773,221.000076 1180.694336,221.000076 
 	C1180.694336,355.675018 1180.694336,490.056274 1180.694336,624.718872 
@@ -525,8 +146,9 @@ M906.000000,221.000061
 	C882.162842,414.301819 803.442505,414.301819 724.361450,414.301819 
 	C724.361450,349.764648 724.361450,285.710327 724.361450,221.000061 
 	C784.664612,221.000061 845.082275,221.000061 906.000000,221.000061 
-z"></path>
-<path fill="#ECAD3C" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#ECAD3C" opacity="1.000000" stroke="none" 
+	d="
 M324.000000,643.000000 
 	C378.133026,643.000000 431.766052,643.000000 485.883850,643.000000 
 	C485.883850,572.644104 485.883850,502.589172 485.883850,432.267944 
@@ -535,8 +157,9 @@ M324.000000,643.000000
 	C553.825500,835.612305 401.778870,835.612305 249.365967,835.612305 
 	C249.365967,771.773926 249.365967,707.719604 249.365967,643.000000 
 	C273.990356,643.000000 298.745178,643.000000 324.000000,643.000000 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1655.833252,653.000671 
 	C1655.878784,653.446594 1655.924438,653.892578 1655.621338,654.756714 
 	C1654.848511,655.783203 1654.424194,656.391602 1653.868530,657.290405 
@@ -571,16 +194,18 @@ M1655.833252,653.000671
 	C1652.111084,651.000000 1652.555542,651.000000 1653.078857,651.296753 
 	C1653.771729,652.062317 1654.385864,652.531128 1655.208252,653.000000 
 	C1655.416626,653.000000 1655.833252,653.000671 1655.833252,653.000671 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1651.000000,651.000000 
 	C1648.378540,650.178772 1645.757080,649.357544 1642.764648,648.420105 
 	C1644.201660,646.351135 1645.069214,645.102234 1645.968140,643.509949 
 	C1647.391113,643.119812 1648.782593,643.072937 1650.587036,643.304688 
 	C1651.000000,643.583313 1651.000000,644.000000 1651.000000,644.436523 
 	C1651.000000,646.915344 1651.000000,648.957703 1651.000000,651.000000 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1651.333252,651.000000 
 	C1651.000000,648.957703 1651.000000,646.915344 1651.266113,644.555725 
 	C1652.061279,644.479614 1652.590576,644.720764 1653.119751,644.961975 
@@ -590,93 +215,107 @@ M1651.333252,651.000000
 	C1654.848511,649.783142 1654.424316,650.391602 1653.750000,651.000000 
 	C1653.500000,651.000000 1653.000000,651.000000 1653.000000,651.000000 
 	C1652.555542,651.000000 1652.111084,651.000000 1651.333252,651.000000 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1654.000000,661.000000 
 	C1653.912354,659.860229 1653.824707,658.720520 1654.174072,657.290405 
 	C1655.018555,657.000122 1655.425903,657.000305 1655.833496,657.000427 
 	C1655.880249,658.069275 1655.927002,659.138123 1655.598022,660.603516 
 	C1654.814819,661.000000 1654.407349,661.000000 1654.000000,661.000000 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1653.986450,661.343384 
 	C1654.407349,661.000000 1654.814819,661.000000 1655.527710,660.999756 
 	C1655.479614,662.575012 1655.125977,664.150635 1654.442871,665.884766 
 	C1654.066528,664.591187 1654.019775,663.138977 1653.986450,661.343384 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1655.833374,672.000488 
 	C1655.807007,673.223328 1655.780518,674.446228 1655.156006,675.844360 
 	C1654.371948,676.013123 1654.186035,676.006531 1653.879272,675.747864 
 	C1653.505737,674.997131 1653.252808,674.498596 1653.000000,673.666748 
 	C1653.000000,672.888916 1653.000000,672.444458 1653.354248,672.000000 
 	C1654.416748,672.000122 1655.125000,672.000305 1655.833374,672.000488 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1655.903320,684.635742 
 	C1655.131836,683.870117 1654.430420,682.739624 1654.143066,681.294556 
 	C1654.742920,680.972534 1654.928711,680.965088 1655.114380,680.957703 
 	C1655.400757,682.062134 1655.687134,683.166504 1655.903320,684.635742 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1655.072021,680.618774 
 	C1654.928711,680.965088 1654.742920,680.972534 1654.278564,680.989990 
 	C1653.746826,680.501587 1653.493652,680.003174 1653.168335,678.938171 
 	C1653.397461,677.581055 1653.698853,676.790527 1654.000000,676.000000 
 	C1654.186035,676.006531 1654.371948,676.013123 1654.836670,676.030579 
 	C1655.086792,677.454285 1655.058228,678.867126 1655.072021,680.618774 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1653.000000,692.000000 
 	C1653.245117,691.193115 1653.490356,690.386230 1654.173340,689.289673 
 	C1655.018555,689.000183 1655.425903,689.000305 1655.833374,689.000427 
 	C1655.880127,689.752319 1655.926758,690.504272 1655.549316,691.628052 
 	C1654.416870,692.000000 1653.708374,692.000000 1653.000000,692.000000 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1655.903320,671.628540 
 	C1655.125000,672.000305 1654.416748,672.000122 1653.474854,671.747803 
 	C1653.494141,670.997070 1653.747070,670.498535 1654.000000,670.000000 
 	C1654.435303,669.702271 1654.870483,669.404602 1655.569580,669.053345 
 	C1655.880005,669.752075 1655.926758,670.504333 1655.903320,671.628540 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1654.000000,651.000000 
 	C1654.424316,650.391602 1654.848511,649.783142 1655.553223,649.087585 
 	C1655.880249,650.069580 1655.927002,651.138794 1655.903564,652.604309 
 	C1655.833252,653.000671 1655.416626,653.000000 1655.087646,652.747803 
 	C1654.505737,651.997131 1654.252930,651.498535 1654.000000,651.000000 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1653.088379,692.308228 
 	C1653.708374,692.000000 1654.416870,692.000000 1655.479492,691.999756 
 	C1655.879150,692.445740 1655.924683,692.891907 1655.901855,693.669312 
 	C1654.947754,693.539124 1654.062256,693.077820 1653.088379,692.308228 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1655.901733,656.669434 
 	C1655.425903,657.000305 1655.018555,657.000122 1654.305542,657.000000 
 	C1654.424194,656.391602 1654.848511,655.783203 1655.553101,655.087646 
 	C1655.878906,655.446472 1655.924561,655.892395 1655.901733,656.669434 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1655.901733,688.669434 
 	C1655.425903,689.000305 1655.018555,689.000183 1654.305420,689.000000 
 	C1654.424194,688.391541 1654.848511,687.783203 1655.552979,687.087646 
 	C1655.878906,687.446472 1655.924438,687.892395 1655.901733,688.669434 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1653.061279,644.616455 
 	C1652.590576,644.720764 1652.061279,644.479614 1651.266113,644.119202 
 	C1651.000000,644.000000 1651.000000,643.583313 1650.999756,643.375000 
 	C1651.667358,643.534729 1652.335205,643.902893 1653.061279,644.616455 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1655.861450,645.730591 
 	C1655.613403,645.845520 1655.418579,645.677124 1655.135010,645.322815 
 	C1655.310303,645.269836 1655.599731,645.373291 1655.861450,645.730591 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1653.639893,669.969116 
 	C1653.747070,670.498535 1653.494141,670.997070 1653.120605,671.747803 
 	C1653.000000,672.444458 1653.000000,672.888916 1652.666748,673.666687 
@@ -687,227 +326,20 @@ M1653.639893,669.969116
 	C1638.438477,673.544495 1639.598389,672.709106 1640.373169,672.218994 
 	C1643.412109,670.296387 1646.512085,668.470337 1649.926147,666.404663 
 	C1650.568970,667.082092 1651.924316,668.510193 1653.639893,669.969116 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1651.000854,674.385071 
 	C1651.444458,674.000000 1651.888916,674.000000 1652.666626,674.000000 
 	C1653.252808,674.498596 1653.505737,674.997131 1653.879395,675.747925 
 	C1653.698853,676.790527 1653.397461,677.581055 1653.048096,678.685791 
 	C1652.333862,677.590027 1651.667847,676.180115 1651.000854,674.385071 
-z"></path>
-<path fill="#E88532" opacity="1.000000" stroke="none" d="
+z"/>
+<path fill="#E88532" opacity="1.000000" stroke="none" 
+	d="
 M1653.750000,651.000000 
 	C1654.252930,651.498535 1654.505737,651.997131 1654.879395,652.747803 
 	C1654.385864,652.531128 1653.771729,652.062317 1653.078857,651.296753 
 	C1653.000000,651.000000 1653.500000,651.000000 1653.750000,651.000000 
-z"></path>
+z"/>
 </svg>
-        
-      </span>
-    
-    
-      <span class="title-text" data-tooltip="Home">
-        
-          <span class="title">M!ND Lab</span>
-        
-        
-          <span class="subtitle">Mapping Intell!gent behavior onto Neural Dynamics</span>
-        
-      </span>
-    
-  </a>
-
-  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
-
-  <nav>
-    
-    
-      
-        <a href="/research/">
-          Research
-        </a>
-      
-    
-      
-        <a href="/projects/">
-          Projects
-        </a>
-      
-    
-      
-        <a href="/team/">
-          Team
-        </a>
-      
-    
-      
-        <a href="/blog/">
-          Publications
-        </a>
-      
-    
-      
-        <a href="/contact/">
-          Contact
-        </a>
-      
-    
-  </nav>
-</header>
-
-    <main>
-      <!--
-  modify main content of page:
-  - add section breaks
-  - attach section properties
-  - filter out blank sections
--->
-
-
-
-
-
-
-  
-  
-  
-
-  <section class="background" data-size="page">
-    <h1 id="research">Research</h1>
-
-<p>The focus of the M!ND Lab is to advance knowledge on a specific, yet multifaceted question: <strong>what is so special about the brain, down at the neuronal level, that endows us and other animals with the capacity to abstract away from our environment, think and plan ahead?</strong> Said differently, how do populations of interconnected neurons generate intelligent, thoughtful behavior? While there are many paths towards addressing this issue, we firmly believe that a potentially fruitful approach and a satisfying answer to this question is to be found in the establishment of precise <em>mathematical mappings</em> between neural activity and behaviorally-relevant variables used by the brain to perform complex computations. The main goal of the lab, therefore, is to search for such mappings in relation to various high-level cognitive processes, including but not limited to motor planning, introspection, anticipation, mental simulation, problem-solving, and learning.</p>
-
-<p>Further, to ensure that our findings bring added value for the rest of the neuroscientific community, we think that those mappings should fulfill the 3 properties below:</p>
-
-<ol>
-  <li>
-    <p>Be <strong>predictive</strong>: neuroscience is notoriously <a href="https://www.cell.com/neuron/comments/S0896-6273(17)30103-4">correlational</a>, and is bound to remain so until further conceptual and/or technological breakthroughs occur. While our lab does not aspire to directly contribute to these methodological advances, our approach is to develop models that go beyond simple correlations and are instead quantitative enough to make accurate predictions about the <em>exact</em> relationship between neural signals and behavioral variables of interest. In other words, we trade causation for prediction, until better tools become available. Examples of previous attempts at finding such predictive mappings can be found <a href="https://www.cell.com/neuron/fulltext/S0896-6273(21)00622-X">here</a>, and <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00147-X">here</a>.</p>
-  </li>
-  <li>
-    <p>Be <strong>generalizable</strong>: we are not interested in overfitting data to develop models that won’t be usable by others. Instead, we seek an understanding that ideally does not depend on the particular task or individual at hand, and can generalize to new settings and experiments (one example <a href="https://www.cell.com/neuron/fulltext/S0896-6273(22)01089-3">here</a>). Naturally, failure to generalize becomes inevitable at some point, so we actively look for these breaking points and use them to refine or even completely revisit our underlying hypotheses. With this approach, we constantly evaluate our work in light of how much new data is required to refute our current model.</p>
-  </li>
-  <li>
-    <p>Be <strong>interpretable</strong>: this last property is perhaps the most difficult to fulfil, but we (try to) restrict our search to models that involve tractable and “intuitive” operations. In practice, it means for example that we avoid the traditional “decoding approach” using black-box models or giant GLMs to predict behavioral variables from neural activity. Instead, we try to guess the underlying logic by which those variables might be encoded in the first place, and build decoders accordingly (another example <a href="https://www.cell.com/neuron/fulltext/S0896-62731930562-8">here</a>). The virtue of this approach is that interpretability often makes it easier to design tests of generalizability, and boosts the creative process of generating ideas for the next round of experiments.</p>
-  </li>
-</ol>
-
-<p>Lastly, we complement our empirical and computational approach with theoretical considerations (e.g., <a href="https://osf.io/rm3nh_v2/">here</a>) that push us to examine our findings in the broader context of how the brain as a whole might carry out specific computations. In doing so, we formulate predictions (or speculate) about the role of other brain regions (those we don’t necessarily record from), and move forward using “prediction errors” from the literature to update our hypotheses and design new experiments.</p>
-  </section>
-
-
-    </main>
-    
-
-
-<footer class="background" style="--image: url('/images/background.png')" data-dark="true" data-size="wide">
-  <!--
-    <div>
-      Extra details like contact info or address
-    </div>
-  -->
-
-  <div>
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="mailto:nicolas.meirhaeghe@cnrs.fr" data-tooltip="Email" data-style="bare" aria-label="Email">
-      <i class="icon fa-solid fa-envelope"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://orcid.org/0000-0002-3785-0696" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
-      <i class="icon fa-brands fa-orcid"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=gXpQelwAAAAJ&hl=fr&oi=ao" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
-      <i class="icon fa-brands fa-google"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://github.com/nmrghe" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
-      <i class="icon fa-brands fa-github"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://twitter.com/nicognitive" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
-      <i class="icon fa-brands fa-twitter"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://bsky.app/profile/test" data-tooltip="Bluesky" data-style="bare" aria-label="Bluesky">
-      <i class="icon fa-brands fa-bluesky"></i>
-      
-    </a>
-  </div>
-
-
-    
-  </div>
-
-  <div>
-    © 2026
-    M!ND Lab
-     
-  </div>
-
-  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
-</footer>
-
-  </body>
-</html>
