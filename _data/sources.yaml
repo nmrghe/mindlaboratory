@@ -1,7 +1,14 @@
+- id: doi:10.1016/j.neuron.2022.12.016
+  authors:
+  - Manuel Beiran\*
+  - Nicolas Meirhaeghe\*
+  - Hansem Sohn
+  - Mehrdad Jazayeri
+  - Srdjan Ostojic
 
 - id: doi:10.7554/eLife.32822
   authors:
     - Steve McQueen*
     - Lightning McQueen*
-    - another guy
+    - test
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
