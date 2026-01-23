@@ -46,7 +46,7 @@ The lab is located on the Aix-Marseille University campus in the center of Marse
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Les calanques de Marseille"
 %}
 
 {% endcapture %}
