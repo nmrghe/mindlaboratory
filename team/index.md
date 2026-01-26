@@ -16,10 +16,10 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-[Contact us](Contact) if you'd like to know more about open positions in the lab.
+[Contact us](contact) if you'd like to know more about open positions in the lab.
 
 {% include section.html %}
 
 # Alumni
 
-Camille Uldry Lavergne, Visiting M.Sc. student (MIT-France MISTI program) (2023)
+Camille Uldry Lavergne, visiting M.Sc. student (MIT-France MISTI program) (2023)
