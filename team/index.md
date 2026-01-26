@@ -16,7 +16,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-[Contact us](contact) if you'd like to know more about open positions in the lab.
+[Contact us](../contact) if you'd like to know more about open positions in the lab.
 
 {% include section.html %}
 
