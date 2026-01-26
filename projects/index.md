@@ -8,18 +8,14 @@ nav:
 
 We work at the interface of many disciplines, from human and animal psychophysics to neurophysiology, data analysis and modeling.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include section.html %}
 
-{% include search-info.html %}
+## Past Projects
+
+{% include list.html component="card" data="projects" filter="group == 'past'" %}
 
 {% include section.html %}
 
-## Featured
+## Ongoing and Future Projects
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" style="current" %}
