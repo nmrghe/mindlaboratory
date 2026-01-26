@@ -16,18 +16,10 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+[Contact us](Contact) if you'd like to know more about open positions in the lab.
 
 {% include section.html %}
 
-{% capture content %}
+# Alumni
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+Camille Uldry Lavergne, Visiting M.Sc. student (MIT-France MISTI program) (2023)
