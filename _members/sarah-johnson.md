@@ -1,7 +1,7 @@
 ---
-name: Sarah Johnson
+name: Jane Doe
 image: images/photo.jpg
-description: Lead Programmer
+description: Postdoc
 role: programmer
 links:
   email: sarah.johnson@gmail.com
