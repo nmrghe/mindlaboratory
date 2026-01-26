@@ -4,6 +4,6 @@ At any given instant, billions of neurons in our brains are lighting up in a com
 
 # Our goal is to understand how the intricacies of our “mental life” – our thoughts, plans and expectations – emerge from biology
 
-We follow a multidisciplinary approach, combining experiments in humans and animals to study particular mental processes, such as planning, anticipation and learning, with hypothesis-driven analyses and modeling of the underlying neural dynamics. We use various techniques, some more elaborate than others, to relate spiking neural activity recorded at a very fine spatiotemporal resolution to the underlying cognitive processes sollicited by carefully-designed experimental conditions. When relevant, we also turn to artificial models to gain further insight into how "intelligent" systems, be it biological or artificial, function at the algorithmic and implementation level.  
+We follow a multidisciplinary approach, combining behavioral experiments in humans and animals with hypothesis-driven analyses and modeling of the underlying neural dynamics. We use various techniques to relate high-dimensional neural activity recorded at a very fine spatiotemporal resolution to the underlying cognitive processes sollicited by carefully-designed experimental conditions. When relevant, we also turn to artificial models to gain further insight into how "intelligent" systems, be it biological or artificial, function at the algorithmic and implementation level.  
 
 More details about our [research](research) and past/ongoing [projects](projects). 
