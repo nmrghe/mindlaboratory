@@ -6,7 +6,7 @@ nav:
 
 # Projects
 
-We work at the interface of many disciplines, from human and animal psychophysics to neurophysiology, data analysis and modeling.
+We work at the interface of many disciplines, from psychophysics and neurophysiology, to data analysis and modeling.
 
 {% include section.html %}
 
