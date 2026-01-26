@@ -23,3 +23,12 @@ nav:
 # Alumni
 
 Camille Uldry Lavergne, visiting M.Sc. student (MIT-France MISTI program) (2023)
+
+# Collaborators
+
+Mehrdad Jazayeri, Massachusetts Institute of Technology 
+Srdjan Ostojic, Ecole Normale Supérieure 
+Hansem Sohn, Sungkyunkwan University
+Thomas Brochier, Institut de Neurosciences de la Timone
+Manuel Beiran, Columbia University
+
