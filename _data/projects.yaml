@@ -7,14 +7,10 @@
   repo: greenelab/lab-website-template
 
 - title: How does the brain plan multiple upcoming movements in parallel?
-  subtitle: Investigating how neural dynamics in motor cortex encodes several actions simultaneously 
   group: past
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/Meirhaeghe2023.jpg
+  link: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS221112472300147X%3Fshowall%3Dtrue
+  description: Investigating how neural dynamics in motor cortex encodes several actions simultaneously.
 
 - title: Cool Tutorial
   subtitle: a subtitle
