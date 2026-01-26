@@ -10,7 +10,7 @@
   image: images/Projects_002.png
   link: https://www.cell.com/neuron/fulltext/S0896-6273(21)00622-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS089662732100622X%3Fshowall%3Dtrue
 
-  - title: How does the brain apply old knowledge to a new context?
+- title: How does the brain apply old knowledge to a new context?
   subtitle: Investigating how neural dynamics in biological and artificial networks generalize to novel conditions
   group: past
   image: images/Projects_003.png
