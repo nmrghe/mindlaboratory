@@ -1,15 +1,13 @@
-- title: Neural basis of predictive temporal processing
-  subtitle: a subtitle
+- title: How does the brain predict when something will occur based on past experience?
+  subtitle: Investigating how neural population dynamics in frontal cortex incorporate temporal expectations
   group: past
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  tags:
-    - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: How does the brain plan multiple actions in parallel?
+  subtitle: Investigating how neural dynamics in motor cortex encodes multiple movements simultaneously 
   group: past
   image: images/photo.jpg
   link: https://github.com/
