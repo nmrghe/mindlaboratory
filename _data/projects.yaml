@@ -1,10 +1,8 @@
 - title: How does the brain predict when something will occur?
   subtitle: Investigating how neural population dynamics in frontal cortex incorporate temporal expectations
   group: past
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/Meirhaeghe2021.png
+  link: https://www.cell.com/neuron/fulltext/S0896-6273(21)00622-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS089662732100622X%3Fshowall%3Dtrue
 
 - title: How does the brain plan multiple upcoming movements in parallel?
   subtitle: Investigating how neural dynamics in motor cortex encodes several actions simultaneously
