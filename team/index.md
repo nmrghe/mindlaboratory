@@ -22,7 +22,9 @@ nav:
 
 # Alumni
 
-Camille Uldry Lavergne, visiting M.Sc. student (MIT-France MISTI program) (2023)
+Julio Rodino, visiting Ph.D. student from Jülich Research Center (2025)
+
+Camille Uldry Lavergne, visiting M.Sc. student from MIT (2023)
 
 {% include section.html %}
 
