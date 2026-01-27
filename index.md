@@ -12,6 +12,12 @@ More details about our [research](research) and past/ongoing [projects](projects
 
 {%
   include alert.html
+  type="conference"
+  content="March 2026: we will be at COSYNE in Portugal this year!"
+%}
+
+{%
+  include alert.html
   type="team"
   content="This is a test !"
 %}
