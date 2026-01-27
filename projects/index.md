@@ -18,4 +18,4 @@ We work at the interface of many disciplines, from psychophysics and neurophysio
 
 ## Ongoing and Future Projects
 
-{% include list.html component="card" data="projects" filter="!group" style="current" %}
+{% include list.html component="card" data="projects" filter="group ='current'" %}
