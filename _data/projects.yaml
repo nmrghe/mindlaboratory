@@ -22,30 +22,17 @@
   image: images/Projects_004.png
   link: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS221112472300147X%3Fshowall%3Dtrue
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: How far ahead does the brain plan complex sequences of movements?
+  subtitle: Investigating the planning horizon of neural dynamics in motor cortex
+  group: current
+  image: images/Projects_005.png
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: What internal operations happen in the brain when we plan an action? 
+  subtitle: Investigating the inter-areal principles of planning at the neural population level 
+  group: current
+  image: images/Projects_006.png
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Do we learn, and how, when we use LLMs to solve a task?
+  subtitle: Investigating the impact of AI on human knowledge retention
+  group: current
+  image: images/Projects_007.png
