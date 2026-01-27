@@ -152,6 +152,11 @@ error:
   icon: fa-solid fa-ban
   color: "#ef4444"
 
+team:
+  icon: fa-solid fa-users
+  text: New team member!
+  color: "#d946ef"
+
 # publications
 
 paper:
