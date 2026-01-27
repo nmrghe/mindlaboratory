@@ -14,9 +14,9 @@ Our team is actively looking to grow! [Contact us](../contact) if you'd like to 
 
 {% include section.html %}
 
-#{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
-#{% include section.html %}
+{% include section.html %}
 
 # Alumni
 
