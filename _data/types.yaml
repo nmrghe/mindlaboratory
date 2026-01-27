@@ -154,15 +154,35 @@ error:
 
 team:
   icon: fa-solid fa-users
-  text: New team member!
+  text: New member!
   color: "#d946ef"
 
-# publications
+funding:
+  icon: fa-solid fa-chart-line
+  text: New funding!
+  color: "#6366f1"
 
 paper:
   icon: fa-solid fa-scroll
-  text: Paper
-  tooltip: Paper
+  text: New paper!
+  color: "#0ea5e9"
+
+preprint:
+  icon: fa-regular fa-eye
+  text: New preprint!
+  color: "#22c55e"
+
+conference:
+  icon: fa-regular fa-globe
+  text: New conference!
+  color: "#F59E0B"
+
+news:
+  icon: fa-regular fa-champagne-glasses
+  text: News!
+  color: "#ef4444"
+
+# publications
 
 book:
   icon: fa-solid fa-book
@@ -178,11 +198,6 @@ journal:
   icon: fa-regular fa-newspaper
   text: Journal
   tooltip: Journal
-
-preprint:
-  icon: fa-regular fa-eye
-  text: Preprint
-  tooltip: Preprint
 
 unpublished:
   icon: fa-regular fa-eye
