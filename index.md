@@ -10,14 +10,6 @@ More details about our [research](research) and past/ongoing [projects](projects
 
 ## News
 
-{%
-  include alert.html
-  type="conference"
-  content="March 2026: we will be at COSYNE in Portugal this year!"
-%}
+**March 2026**: we will be at COSYNE this year! See you in Portugal! 
 
-{%
-  include alert.html
-  type="team"
-  content="This is a test !"
-%}
+**January 2026**: this is a test
