@@ -7,3 +7,11 @@ At any given instant, billions of neurons in our brains are lighting up in a com
 We follow a multidisciplinary approach, combining behavioral experiments in humans and animals with hypothesis-driven analyses and modeling of the underlying neural dynamics. We use various techniques to relate high-dimensional neural activity recorded at a very fine spatiotemporal resolution to the underlying cognitive processes sollicited by carefully-designed experimental conditions. When relevant, we also turn to artificial models to gain further insight into how "intelligent" systems, be it biological or artificial, function at the algorithmic and implementation level.  
 
 More details about our [research](research) and past/ongoing [projects](projects). 
+
+## News
+
+{%
+  include alert.html
+  type="team"
+  content="This is a test !"
+%}
