@@ -6,19 +6,17 @@ nav:
 
 # Team
 
+Our team is actively looking to grow! [Contact us](../contact) if you'd like to know more about open positions in the lab.
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+#{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-[Contact us](../contact) if you'd like to know more about open positions in the lab.
-
-{% include section.html %}
+#{% include section.html %}
 
 # Alumni
 
