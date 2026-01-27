@@ -18,6 +18,8 @@ Our team is actively looking to grow! [Contact us](../contact) if you'd like to 
 
 Julio Rodino, visiting Ph.D. student from Jülich Research Center (2025)
 
+Coline Tichtinsky, visiting Medical student from Aix-Marseille University (2025)
+
 Camille Uldry Lavergne, visiting M.Sc. student from MIT (2023)
 
 {% include section.html %}
