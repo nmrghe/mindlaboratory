@@ -8,6 +8,8 @@ We follow a multidisciplinary approach, combining behavioral experiments in huma
 
 More details about our [research](research) and past/ongoing [projects](projects). 
 
+{% include section.html %}
+
 ## News
 
 > **January 2026**: the lab website is finally up and running!
