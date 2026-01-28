@@ -32,6 +32,8 @@ More details about our [research](research) and past/ongoing [projects](projects
   
   > October 2025: welcome to [Julio Rodino](https://scholar.google.com/citations?hl=en&user=QigUlhoAAAAJ), Ph.D. student from Jülich Research Center, joining the lab to collaborate on our planning-on-the-fly project!
 
+  </div>
+
 </details>
 
 
