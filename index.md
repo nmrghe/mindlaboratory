@@ -12,18 +12,18 @@ More details about our [research](research) and past/ongoing [projects](projects
 
 ## News
 
-> **January 2026**: the lab website is finally up and running!
+> January 2026: the lab website is finally up and running!
 
-> **January 2026**: we are selected to give a talk at [NCM](https://ncm-society.org/2026-meeting/) this year! See you in Japan!
+> January 2026: we are selected to give a talk at [NCM](https://ncm-society.org/2026-meeting/) this year! See you in Japan!
 
-> **January 2026**: Nicolas receives the 2026 [Bernard Bioulac Prize](https://fondation-cnrs.org/ceremonie-de-remise-des-prix-cnrs-biologie-fondation-cnrs/) in Neuroscience from the CNRS Foundation!
+> January 2026: Nicolas receives the 2026 [Bernard Bioulac Prize](https://fondation-cnrs.org/ceremonie-de-remise-des-prix-cnrs-biologie-fondation-cnrs/) in Neuroscience from the CNRS Foundation!
 
-> **December 2025**: we are selected to present a poster at [COSYNE](https://www.cosyne.org/2026-invited-speakers) this year! See you in Portugal!
+> December 2025: we are selected to present a poster at [COSYNE](https://www.cosyne.org/2026-invited-speakers) this year! See you in Portugal!
 
-> **December 2025**: congrats to [Salvatore Giancani](https://scholar.google.com/citations?user=-SVoKcIAAAAJ&hl=en), incoming member of the M!ND Lab, for winning a postdoctoral fellowship from [Neuroschool](https://neuro-marseille.org/en/training/) to work on his neuro-AI project!
+> December 2025: congrats to [Salvatore Giancani](https://scholar.google.com/citations?user=-SVoKcIAAAAJ&hl=en), incoming member of the M!ND Lab, for winning a postdoctoral fellowship from [Neuroschool](https://neuro-marseille.org/en/training/) to work on his neuro-AI project!
 
-> **November 2025**: Nicolas officially starts as a CNRS researcher at INT! And so it begins!
+> November 2025: Nicolas officially starts as a CNRS researcher at INT! And so it begins!
 
-> **October 2025**: welcome to [Julio Rodino](https://scholar.google.com/citations?hl=en&user=QigUlhoAAAAJ), Ph.D. student from Jülich Research Center, joining the lab to collaborate on our planning-on-the-fly project!
+> October 2025: welcome to [Julio Rodino](https://scholar.google.com/citations?hl=en&user=QigUlhoAAAAJ), Ph.D. student from Jülich Research Center, joining the lab to collaborate on our planning-on-the-fly project!
 
 
