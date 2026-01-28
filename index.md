@@ -10,6 +10,6 @@ More details about our [research](research) and past/ongoing [projects](projects
 
 ## News
 
-> **March 2026**: we will be at COSYNE this year! See you in Portugal! 
+> **December 2025**: we are selected to present a poster at (COSYNE)[https://www.cosyne.org/2026-invited-speakers]
 
-> **January 2026**: this is a test
+> **Decem 2026**: this is a test
