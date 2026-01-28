@@ -24,9 +24,9 @@ More details about our [research](research) and past/ongoing [projects](projects
 
 <details>
   <summary>More news</summary>
-
+  
   November 2025: Nicolas officially starts as a CNRS researcher at INT! And so it begins!
-
+  
   October 2025: welcome to [Julio Rodino](https://scholar.google.com/citations?hl=en&user=QigUlhoAAAAJ), Ph.D. student from Jülich Research Center, joining the lab to collaborate on our planning-on-the-fly project!
 
 </details>
