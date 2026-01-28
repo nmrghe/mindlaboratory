@@ -10,6 +10,12 @@ More details about our [research](research) and past/ongoing [projects](projects
 
 ## News
 
-> **December 2025**: we are selected to present a poster at (COSYNE)[https://www.cosyne.org/2026-invited-speakers]
+> **January 2026**: the lab website is finally up and running!
+
+> **January 2026**: we are selected to give a talk at [NCM](https://ncm-society.org/2026-meeting/) this year! See you in Japan!
+
+> **December 2025**: we are selected to present a poster at [COSYNE](https://www.cosyne.org/2026-invited-speakers) this year! See you in Portugal!
+>
+> **December 2025**: congrats to Salvatore Giancani, incoming member of the M!ND Lab, for winning a postdoctoral fellowship from [Neuroschool](https://neuro-marseille.org/en/training/) to work on his neuro-AI project!
 
 > **Decem 2026**: this is a test
