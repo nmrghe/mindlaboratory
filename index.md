@@ -16,7 +16,7 @@ More details about our [research](research) and past/ongoing [projects](projects
 
 > January 2026: we are selected to give a talk at [NCM](https://ncm-society.org/2026-meeting/) this year! See you in Japan!
 
-> January 2026: Nicolas receives the 2026 [Bernard Bioulac Prize](https://fondation-cnrs.org/ceremonie-de-remise-des-prix-cnrs-biologie-fondation-cnrs/) in Neuroscience from the CNRS Foundation!
+> January 2026: Nicolas receives the 2026 [Bernard Bioulac Prize](https://www.provence-corse.cnrs.fr/fr/cnrsinfo/nicolas-meirhaeghe-est-laureat-du-prix-bernard-bioulac-2025-de-cnrs-biologie-et-de-la) in Neuroscience from the CNRS Foundation!
 
 > December 2025: we are selected to present a poster at [COSYNE](https://www.cosyne.org/2026-invited-speakers) this year! See you in Portugal!
 
