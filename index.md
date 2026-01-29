@@ -20,6 +20,8 @@ The M!ND Lab is based at the [Institut de Neurosciences de la Timone](https://ww
   ![](/images/cnrs.png)
 {% endcapture %}
 
+{% include grid.html content=content %}
+
 {% include section.html %}
 
 ## News
