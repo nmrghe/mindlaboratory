@@ -12,6 +12,12 @@ More details about our [research](research) and past/ongoing [projects](projects
 
 The M!ND Lab is based at the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/en/int-research), on the campus of [Aix-Marseille University](https://www.univ-amu.fr/en), and is affiliated with the [Centre National de la Recherche Scientifique](https://www.cnrs.fr/en) (CNRS)
 
+{%
+  include figure.html
+  image="images/int.png"
+  width="400px"
+%}
+
 {% include section.html %}
 
 ## News
