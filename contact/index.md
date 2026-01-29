@@ -23,7 +23,7 @@ link="https://www.google.fr/maps/place/Institute+of+Neuroscience+of+la+Timone/@4
 
 {% include section.html %}
 
-The lab is based at the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/en/int-research) on the Aix-Marseille University campus in the center of Marseille, one of the most vibrant cities in Europe, with direct access to the Mediterranean Sea, close to the Alps and the Pyrenees, and equally close to Italy and Spain.
+The lab is based at the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/en/int-research) on the Aix-Marseille University campus in the center of Marseille, one of the most vibrant cities in Europe, with direct access to the Mediterranean Sea, close to the Alps and Pyrenees, and equally close to Italy and Spain.
 
 {%
   include figure.html
