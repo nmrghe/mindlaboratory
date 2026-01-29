@@ -10,7 +10,11 @@ More details about our [research](research) and past/ongoing [projects](projects
 
 ## About the lab
 
-The M!ND Lab is based at the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/en/int-research), on the campus of [Aix-Marseille University](https://www.univ-amu.fr/en).
+The M!ND Lab is based at the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/en/int-research), on the campus of [Aix-Marseille University](https://www.univ-amu.fr/en), and is affiliated with the [Centre National de la Recherche Scientifique](https://www.cnrs.fr/en) (CNRS)
+
+![plain image](/images/int.png)
+![plain image](/images/amu.png)
+![plain image](/images/cnrs.png)
 
 {% include section.html %}
 
@@ -19,8 +23,6 @@ The M!ND Lab is based at the [Institut de Neurosciences de la Timone](https://ww
 > January 2026: the lab website is finally up and running!
 
 > January 2026: we are selected to give a talk at [NCM](https://ncm-society.org/2026-meeting/) this year! See you in Japan!
-
-> January 2026: Nicolas receives the 2026 [Bernard Bioulac Prize](https://www.provence-corse.cnrs.fr/fr/cnrsinfo/nicolas-meirhaeghe-est-laureat-du-prix-bernard-bioulac-2025-de-cnrs-biologie-et-de-la) in Neuroscience from the CNRS Foundation!
 
 > December 2025: we are selected to present a poster at [COSYNE](https://www.cosyne.org/2026-invited-speakers) this year! See you in Portugal!
 
