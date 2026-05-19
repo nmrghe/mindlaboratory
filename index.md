@@ -18,6 +18,8 @@ The M!ND Lab is based at the [Institut de Neurosciences de la Timone](https://ww
 
 ## News
 
+> June 2026: welcome to Suzanne Martin Witkowski, engineering student at ENSIMAG, joining the lab for two months to work on a data mining project!
+
 > January 2026: the lab website is finally up and running!
 
 > January 2026: we are selected to give a talk at [NCM](https://ncm-society.org/2026-meeting/) this year! See you in Japan!
