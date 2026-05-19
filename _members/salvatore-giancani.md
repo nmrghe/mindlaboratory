@@ -1,11 +1,8 @@
 ---
-name: Jane Doe
+name: Salvatore Giancani
 image: images/photo.jpg
 description: Postdoc
-role: programmer
-links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+role: Postdoc
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
