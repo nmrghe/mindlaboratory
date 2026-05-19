@@ -12,7 +12,7 @@ Our team is actively looking to grow! [Contact us](../contact) if you'd like to 
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" filter="group != 'alum'" %}
 
 {% include section.html %}
 
