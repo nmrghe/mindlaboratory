@@ -1,6 +1,6 @@
 ---
 name: Suzanne M. Witkowski
-image: images/suzanne-martin-witkowski.jpg
+image: images/suzanne-martin-witkowski.png
 description: Master student
 role: visiting-student
 ---
