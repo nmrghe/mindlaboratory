@@ -1,6 +1,6 @@
 ---
 name: Salvatore Giancani
-image: images/salvatore-giancani.jpg
+image: images/salvatore-giancani.png
 description: Postdoc
 role: Postdoc
 links:
