@@ -20,6 +20,8 @@ The M!ND Lab is based at the [Institut de Neurosciences de la Timone](https://ww
 
 > October 2026: welcome to Sajedeh Aghababaei, joining the lab as a PhD student, funded by the competitive [SCHADOC](https://schadoc.univ-amu.fr/en) International call!
 
+> October 2026: congrats to Ashish Vijayan, incoming PhD student in the lab, for winning a doctoral fellowship from [Neuroschool](https://neuro-marseille.org/en/training/)!
+
 > June 2026: welcome to Suzanne M. Witkowski, M.Eng. student at ENSIMAG, joining the lab for 2 months to work on a data mining project!
 
 > January 2026: the lab website is finally up and running!
