@@ -18,7 +18,7 @@ Our team is actively looking to grow! [Contact us](../contact) if you'd like to 
 
 ## Alumni
 
-Suzanne Martin Witkowski, visiting M.Sc. student from ENSIMAG (2026)
+Suzanne Martin Witkowski, visiting M.Eng. student from ENSIMAG (2026)
 
 Julio Rodino, visiting Ph.D. student from Jülich Research Center (2025)
 
