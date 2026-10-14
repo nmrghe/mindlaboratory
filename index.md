@@ -18,7 +18,9 @@ The M!ND Lab is based at the [Institut de Neurosciences de la Timone](https://ww
 
 ## News
 
-> June 2026: welcome to Suzanne Martin Witkowski, engineering student at ENSIMAG, joining the lab for two months to work on a data mining project!
+> October 2026: welcome to Sajedeh Aghababaei, joining the lab as a PhD student, funded by the competitive [SCHADOC](https://schadoc.univ-amu.fr/en) International call!
+
+> June 2026: welcome to Suzanne M. Witkowski, M.Eng. student at ENSIMAG, joining the lab for 2 months to work on a data mining project!
 
 > January 2026: the lab website is finally up and running!
 
@@ -26,7 +28,7 @@ The M!ND Lab is based at the [Institut de Neurosciences de la Timone](https://ww
 
 > December 2025: we are selected to present a poster at [COSYNE](https://www.cosyne.org/2026-invited-speakers) this year! See you in Portugal!
 
-> December 2025: congrats to [Salvatore Giancani](https://scholar.google.com/citations?user=-SVoKcIAAAAJ&hl=en), incoming member of the M!ND Lab, for winning a postdoctoral fellowship from [Neuroschool](https://neuro-marseille.org/en/training/) to work on his neuro-AI project!
+> December 2025: congrats to Salvatore Giancani, incoming member of the M!ND Lab, for winning a postdoctoral fellowship from [Neuroschool](https://neuro-marseille.org/en/training/) to work on his neuro-AI project!
 
 <details>
   
